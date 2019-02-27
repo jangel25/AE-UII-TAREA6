@@ -1,0 +1,50 @@
+No. :1 
+No. Control: 14400987 
+Nombre: Miguel Angel Ibañez Herrera 
+Calificacion: 70 
+
+No. :2 
+No. Control: 12400543 
+Nombre: Adriana Ramirez Sandoval 
+Calificacion: 71 
+
+No. :3 
+No. Control: 12400234 
+Nombre: Ignacio Guerrero Anaya 
+Calificacion: 90 
+
+No. :4 
+No. Control: 14400934 
+Nombre: Edgar Estrada Echevarria 
+Calificacion: 80 
+
+No. :5 
+No. Control: 18400321 
+Nombre: Aurora Robles Perez 
+Calificacion: 95 
+
+No. :6 
+No. Control: 17400987 
+Nombre: Isidro Burgara Lipez 
+Calificacion: 83 
+
+No. :7 
+No. Control: 11400534 
+Nombre: Patricia Fernandez Ceballos 
+Calificacion: 89 
+
+No. :8 
+No. Control: 16400733 
+Nombre: Juan Raul Padilla Reyes 
+Calificacion: 85 
+
+No. :9 
+No. Control: 15400970 
+Nombre: Silvia Alicia Hernandez Navarro 
+Calificacion: 100 
+
+No. :10 
+No. Control: 14400975 
+Nombre: Emil Navarro Nolasco 
+Calificacion: 78 
+
